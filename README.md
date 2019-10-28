@@ -21,8 +21,10 @@ Securities.csv:
 3.	Sector: Business vertical of the listed company
 4.	Sub_Industry: Business domain of the listed company within a Sector.
 5.	Headquarter: Headquarters address
+
 Steps to perform:
-     1) Create a data pipeline using sqoop to pull the data from the table below from MYSQL server into Hive.
+     
+1) Create a data pipeline using sqoop to pull the data from the table below from MYSQL server into Hive.
 a. MYSQL DATABASE NAME: BDHS_PROJECT
 i. Stock_prices
 ii. Stock_companies
