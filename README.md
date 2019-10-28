@@ -60,9 +60,9 @@ Please use appropriate Hive built-in functions for columns (a,b,e and h to l).
 •	Volume: Average of number of shares traded by month and year for each listed company
 DATA ANALYSIS USING HIVE
 
-         3) Find the top five companies that are good for investment
-         4) Show the best-growing industry by each state, having at least two or more industries mapped.
-         5) For each sector find the following.
+3) Find the top five companies that are good for investment
+4) Show the best-growing industry by each state, having at least two or more industries mapped.
+5) For each sector find the following.
 •	Worst year
 •	b. Best year
 •	c. Stable year
